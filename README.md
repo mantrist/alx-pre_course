@@ -1,1 +1,2 @@
-My first readme
+I am Thomas Tristan.
+i am a software engineer
